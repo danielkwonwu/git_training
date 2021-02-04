@@ -1,3 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-How about we put some text on the second line?
-We are adding things to Alice once more.
+How about we put some text on the second line? I think we can add more here.
